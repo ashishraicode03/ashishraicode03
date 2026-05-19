@@ -11,9 +11,7 @@ Full Stack Developer | Java Developer | Backend Enthusiast
 ---
 
 <p align="center">
-  <a href="https://github.com/ashishraicode03">
-    <img src="https://komarev.com/ghpvc/?username=ashishraicode03&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=ashishraicode03&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 <p align="center">
@@ -79,6 +77,14 @@ Results-driven Full Stack Developer with 1.5+ years of experience in developing 
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashishraicode03&theme=tokyonight" />
+</p>
+
+---
+
+# 🧠 LeetCode Stats
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Ashish_rai_03?theme=dark&font=Nunito&ext=contest" />
 </p>
 
 ---
