@@ -88,4 +88,4 @@
 
 ---
 
-⭐ Open to internships, collaborations, and software development opportunities.
+⭐ Open to Full Stack Dev roles. collaborations, and software development opportunities.
