@@ -1,64 +1,91 @@
-Hi 👋, I'm Ashish Kumar Rai
-Full Stack Developer | Java Developer | Backend Enthusiast
+<h1 align="center">Hi 👋, I'm Ashish Kumar Rai</h1>
+<h3 align="center">Full Stack Developer | Java Developer | Backend Enthusiast</h3>
 
-Results-driven Full Stack Developer with 1.5+ years of experience in developing scalable web applications, secure backend systems, and AI-powered solutions using MERN Stack, Java, Spring Boot, REST APIs, SQL, and Docker.
+<p align="center">
+  <a href="https://github.com/ashishraicode03">
+    <img src="https://img.shields.io/badge/GitHub-ashishraicode03-black?style=for-the-badge&logo=github">
+  </a>
+  
+  <a href="https://www.linkedin.com/in/ashish-kumar-rai-dev/">
+    <img src="https://img.shields.io/badge/LinkedIn-Ashish%20Kumar%20Rai-blue?style=for-the-badge&logo=linkedin">
+  </a>
 
-🚀 About Me
-💻 Passionate about Full Stack & Backend Development
-⚡ Skilled in Java, Spring Boot, MERN Stack, REST APIs, and System Design
-🔐 Interested in Secure Payment Systems, Distributed Systems, and AI-powered Applications
-🌱 Currently improving DSA, Backend Architecture, and Cloud Technologies
-🎯 Focused on building scalable and real-world software solutions
-🛠️ Tech Stack
-Languages
-Java
-JavaScript
-Python
-SQL
-Web Development
-React.js
-Node.js
-Express.js
-MongoDB
-HTML
-CSS
-REST APIs
-Tools & Platforms
-Git & GitHub
-Docker
-CI/CD Pipelines
-Vercel
-Clerk
-Supabase
-📌 Featured Projects
-💰 WelthWise – Personal AI Finance Tracker
-Built a full-stack AI-powered finance tracker using MERN Stack
-Integrated Gemini API for AI receipt scanning and automated expense tracking
-Implemented Clerk Authentication and real-time synchronization with Supabase
-Configured CI/CD pipelines and automated workflows using Inngest and Arcjet
-📡 Offline UPI System – Payment Without Internet
-Engineered an Offline UPI Payment System using Java 17 and Spring Boot
-Implemented RSA-OAEP and AES-256-GCM encryption for secure transactions
-Built idempotent transaction processing with concurrency control and optimistic locking
-Designed mesh-network-based transaction routing for internet-free payments
-📚 Core Skills
-Data Structures & Algorithms
-Object-Oriented Programming
-System Design
-SDLC
-Backend Development
-Authentication & Authorization
-Distributed Systems
-Database Management
-🏆 Achievements & Certifications
-HackerRank Certified in Java & Advanced SQL
-IBM Coursera: Python for Data Science and AI
-Certified in Prompt Engineering by Cognitive Class (IBM)
-Runner-up at State Level Kabaddi
-📫 Connect With Me
-GitHub: https://github.com/ashishraicode03
-LinkedIn: https://www.linkedin.com/in/ashish-kumar-rai-dev/
-LeetCode: https://leetcode.com/u/Ashish_rai_03/
-Email: kumarraiashish2000@gmail.com
+  <a href="https://leetcode.com/u/Ashish_rai_03/">
+    <img src="https://img.shields.io/badge/LeetCode-Ashish__rai__03-orange?style=for-the-badge&logo=leetcode">
+  </a>
+</p>
 
-⭐ Always open to collaboration, internships, and exciting software development opportunities.
+---
+
+## 🚀 About Me
+
+- 💻 Full Stack Developer with **1.5+ years** of experience
+- ⚡ Skilled in **Java, Spring Boot, MERN Stack, REST APIs**
+- 🔐 Interested in **Backend Systems, Distributed Systems & AI Applications**
+- 🌱 Currently learning **Advanced Backend Architecture & Cloud**
+- 🎯 Passionate about building **secure and scalable applications**
+
+---
+
+# 🛠️ Tech Stack
+
+### 👨‍💻 Languages
+`Java` `JavaScript` `Python` `SQL`
+
+### 🌐 Web Development
+`React.js` `Node.js` `Express.js` `MongoDB` `HTML` `CSS` `REST APIs`
+
+### ⚙️ Tools & Platforms
+`Git` `GitHub` `Docker` `CI/CD` `Vercel` `Supabase` `Clerk`
+
+---
+
+# 📌 Featured Projects
+
+## 💰 WelthWise – AI Finance Tracker
+- Built a full-stack finance tracker using **MERN Stack**
+- Integrated **Gemini API** for AI receipt scanning
+- Implemented **Clerk Authentication** & Supabase sync
+- Configured **CI/CD pipelines** with Inngest & Arcjet
+
+---
+
+## 📡 Offline UPI System
+- Engineered an **Offline UPI Payment System**
+- Used **Java 17, Spring Boot & Mesh Networking**
+- Implemented **RSA-OAEP & AES-256-GCM Encryption**
+- Built **idempotent transaction processing pipeline**
+
+---
+
+# 📚 Core Skills
+
+- Data Structures & Algorithms
+- Object-Oriented Programming
+- System Design
+- SDLC
+- Backend Development
+- Authentication & Authorization
+- Distributed Systems
+
+---
+
+# 🏆 Achievements
+
+- 🥇 HackerRank Certified in Java & Advanced SQL
+- 📜 IBM Coursera: Python for Data Science & AI
+- 🧠 Certified in Prompt Engineering by IBM
+- 🏅 Runner-up at State Level Kabaddi
+
+---
+
+# 📫 Connect With Me
+
+- 📧 Email: kumarraiashish2000@gmail.com
+- 💼 LinkedIn: www.linkedin.com/in/ashish-kumar-rai-dev/
+- 💻 GitHub: github.com/ashishraicode03
+- 🧩 LeetCode: leetcode.com/u/Ashish_rai_03/
+
+---
+
+⭐ Open to internships, collaborations, and software development opportunities.
