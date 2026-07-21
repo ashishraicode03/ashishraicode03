@@ -51,15 +51,7 @@ I enjoy solving real-world problems, building impactful software, and mentoring 
 
 ---
 
-## 🏢 Technical Trainer | Veranda Learning Solutions
-
-- 👨‍🏫 Trained **1000+ engineering students** in Java, DSA, MERN Stack, Spring Boot, SQL, and REST APIs.
-- 💻 Delivered Java Full Stack Development training through hands-on projects and coding workshops.
-- 🚀 Mentored students for technical interviews, coding challenges, and software development best practices.
-
----
-
-## 🏢 Web Developer | Veranda Learning Solutions *(Formerly Veranda Six Phrase)*
+## 🏢 Web Developer | Veranda Learning Solutions 
 
 - 💻 Developed and maintained the **Tallentely LMS** platform using **Node.js, Express.js, MongoDB, JavaScript, HTML, and CSS**.
 - 🚀 Built and integrated REST APIs for course management, student enrollment, assignments, and attendance.
