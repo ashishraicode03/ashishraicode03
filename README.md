@@ -41,8 +41,10 @@ I enjoy solving real-world problems, building impactful software, and mentoring 
 ---
 
 # 💼 Professional Experience
+## 🏢 AIML Engineer | Xebia(Current)
 
-## 🏢 Technical Trainer | ByteXL *(Current)*
+
+## 🏢 Technical Trainer | ByteXL *(till oct)*
 
 - 📊 Delivering **Data Analytics with AI** training covering Python, SQL, Excel, Power BI, Statistics, Machine Learning, and Generative AI.
 - 🤖 Conducting hands-on sessions on NumPy, Pandas, Matplotlib, Scikit-learn, SQL, and Power BI.
